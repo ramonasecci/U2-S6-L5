@@ -1,0 +1,120 @@
+/* generali pagina*/
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+}
+
+#containerAll{
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #C5C7C8;
+}
+
+li{
+    list-style-type: none;
+}
+
+/*header*/
+header {
+    padding: 0.8em;
+}
+
+header nav li {
+    font-size: 0.5rem;
+    padding: 1em;
+}
+
+header nav ul li:hover {
+    font-weight: 900;
+}
+
+#navIcons div, p, a {
+    margin-left: 5px;
+    padding: 5px;
+}
+
+#navIcons p{
+    font-size: 0.6rem;
+    padding-top: 1.2em;
+}
+
+/*main*/
+
+
+/*main nav*/
+
+/*nav*/
+h1{
+    white-space: nowrap;
+    margin-right: 0.7em;
+}
+
+
+/*sections*/
+.m-top-movie {
+    margin-top: 2em;
+}
+
+h2 {
+    color: #C5C7C8;
+}
+
+section .row .col-2{
+    padding-right: 2px!important;
+    padding-left: 2px!important;
+}
+
+/*footer*/
+
+footer {
+    margin-top: 4em;
+    color: #C5C7C8;
+}
+
+.spacing-y-footer {
+    margin-bottom: 2em;
+}
+
+#socialIcons svg {
+    margin-right: 10px;
+}
+
+footer ul a, address {
+    font-size: 0.6rem;
+}
+
+footer button {
+    border-radius: 10px;
+}
+
+/*EDIT PROFILE*/
+
+form {
+    color: #C5C7C8;
+}
+.font-label{
+    font-size: 0.6rem;
+    font-weight: 700;
+}
+
+.btn-form {
+    color: #C5C7C8;
+    border-color:#C5C7C8;;
+}
+
+#buttonsEditProf {
+    margin-left: 3.5em;
+}
+
+
+
+
+
+
